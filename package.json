@@ -1,0 +1,9 @@
+{
+  "name": "edutraceug-academic-worker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
